@@ -19,3 +19,8 @@
 .team-member{border-top:2px solid var(--accent);padding-top:18px}.team-member h3{font-size:23px;margin:0 0 10px;letter-spacing:-.02em}
 .photo-sources li{font-size:14px;line-height:1.6;margin:20px 0}
 @media(max-width:650px){.team-list{grid-template-columns:1fr}.reading .photo-caption{font-size:15px!important}}
+
+/* Notas de atribución de fotografías */
+.article-photo .apa-photo-note{font-size:13px!important;line-height:1.75;color:#b5bcc1!important;border-left:2px solid #60686e;padding:8px 0 8px 16px;margin-top:16px;letter-spacing:0;text-transform:none}
+.apa-photo-note a{text-decoration:none;border-bottom:1px solid var(--accent)}
+.apa-photo-references{list-style:none;padding-left:28px}.apa-photo-references li{text-indent:-28px;font-size:14px;line-height:1.8;margin:20px 0;overflow-wrap:anywhere}
