@@ -142,5 +142,15 @@
     "bytes": 92696,
     "file": "imagenes/inspeccion-fod.webp",
     "changes": "Reducción proporcional y conversión a WebP; sin modificar el contenido."
+  },
+  "inicio-inspeccion": {
+    "file": "imagenes/inicio-inspeccion.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Air_Malta_Pre_Flight_Inspection_Airbus_A320.jpg",
+    "artist": "Kristoferb",
+    "date": "2011-08-29",
+    "title": "Air Malta Pre Flight Inspection Airbus A320",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Reducción proporcional y conversión a WebP; sin recorte."
   }
 }
