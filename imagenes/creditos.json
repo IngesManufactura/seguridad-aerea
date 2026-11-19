@@ -1,1 +1,146 @@
-{"mitos": {"file": "imagenes/mitos.jpg", "source": "https://commons.wikimedia.org/wiki/File:Boeing_777_above_clouds,_crop.jpg", "artist": "Boeing Dreamscape", "license": "CC BY 2.0", "license_url": "https://creativecommons.org/licenses/by/2.0", "title": "File:Boeing 777 above clouds, crop.jpg"}, "registradores": {"file": "imagenes/registradores.jpg", "source": "https://commons.wikimedia.org/wiki/File:Fliight_recorder_from_TU-M3.jpg", "artist": "Russianname", "license": "CC BY 3.0", "license_url": "https://creativecommons.org/licenses/by/3.0", "title": "File:Fliight recorder from TU-M3.jpg"}, "fod": {"file": "imagenes/fod.jpg", "source": "https://commons.wikimedia.org/wiki/File:52nd_CES_conducts_large-scale_runway_lighting_restoration_(9139691).jpg", "artist": "U.S. Air Force photo by Airman 1st Class Gretchen McCarty", "license": "Public domain", "license_url": "", "title": "File:52nd CES conducts large-scale runway lighting restoration (9139691).jpg"}, "factor-humano": {"file": "imagenes/factor-humano.jpg", "source": "https://commons.wikimedia.org/wiki/File:EasyJet_airbus_A320_cockpit.jpg", "artist": "Exilexi", "license": "CC BY 4.0", "license_url": "https://creativecommons.org/licenses/by/4.0", "title": "File:EasyJet airbus A320 cockpit.jpg"}}
+{
+  "mitos": {
+    "file": "imagenes/mitos.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Boeing_777_above_clouds,_crop.jpg",
+    "artist": "Boeing Dreamscape",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "title": "File:Boeing 777 above clouds, crop.jpg"
+  },
+  "registradores": {
+    "file": "imagenes/registradores.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fliight_recorder_from_TU-M3.jpg",
+    "artist": "Russianname",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "title": "File:Fliight recorder from TU-M3.jpg"
+  },
+  "fod": {
+    "file": "imagenes/fod.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:52nd_CES_conducts_large-scale_runway_lighting_restoration_(9139691).jpg",
+    "artist": "U.S. Air Force photo by Airman 1st Class Gretchen McCarty",
+    "license": "Public domain",
+    "license_url": "",
+    "title": "File:52nd CES conducts large-scale runway lighting restoration (9139691).jpg"
+  },
+  "factor-humano": {
+    "file": "imagenes/factor-humano.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:EasyJet_airbus_A320_cockpit.jpg",
+    "artist": "Exilexi",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "title": "File:EasyJet airbus A320 cockpit.jpg"
+  },
+  "cabina-pasajeros-737": {
+    "key": "cabina-pasajeros-737",
+    "path": "ajustes-imagenes/cabina-pasajeros-737.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:2009-08-13_Boeing_737_800_Passagierbereich.jpg",
+    "artist": "Usien",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "Passagierbereich der Boeing 737-800",
+    "width": 1200,
+    "height": 680,
+    "bytes": 153594,
+    "file": "imagenes/cabina-pasajeros-737.webp",
+    "changes": "Reducción proporcional y conversión a WebP; sin modificar el contenido."
+  },
+  "cinturon-avion": {
+    "key": "cinturon-avion",
+    "path": "ajustes-imagenes/cinturon-avion.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Airplane_seat_belt_1.jpg",
+    "artist": "Daniel Schwen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Seat belt on an airplane, buckled-up",
+    "width": 1200,
+    "height": 800,
+    "bytes": 139310,
+    "file": "imagenes/cinturon-avion.webp",
+    "changes": "Reducción proporcional y conversión a WebP; sin modificar el contenido."
+  },
+  "tripulacion-737": {
+    "key": "tripulacion-737",
+    "path": "ajustes-imagenes/tripulacion-737.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Boeing_737_cockpit_during_flight.jpg",
+    "artist": "John Christian Fjellestad",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "description": "The cockpit crew of a Boeing 737 operating the controls on a commercial flight from Oslo to Munich",
+    "width": 1200,
+    "height": 800,
+    "bytes": 303194,
+    "file": "imagenes/tripulacion-737.webp",
+    "changes": "Reducción proporcional y conversión a WebP; sin modificar el contenido."
+  },
+  "motor-cfm56-737": {
+    "key": "motor-cfm56-737",
+    "path": "ajustes-imagenes/motor-cfm56-737.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:CFM-56_Lauda_737.jpg",
+    "artist": "Trainler; adaptación de Altair78",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "description": "CFM International CFM56-7B engine of Lauda Air Boeing 737-800 OE-LNT",
+    "width": 1200,
+    "height": 862,
+    "bytes": 53742,
+    "file": "imagenes/motor-cfm56-737.webp",
+    "changes": "Reducción proporcional y conversión a WebP; sin modificar el contenido."
+  },
+  "registradores-instalados": {
+    "key": "registradores-instalados",
+    "path": "ajustes-imagenes/registradores-instalados.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Flightrecorders.JPG",
+    "artist": "YSSYguy",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "A Flight Data Recorder (left) and Cockpit Voice Recorder (right) mounted in the rear fuselage of an aircraft. Each has an Underwater Locator Beacon mounted in brackets on its front.",
+    "width": 1200,
+    "height": 801,
+    "bytes": 292234,
+    "file": "imagenes/registradores-instalados.webp",
+    "changes": "Reducción proporcional y conversión a WebP; sin modificar el contenido."
+  },
+  "rayos-sobre-nubes": {
+    "key": "rayos-sobre-nubes",
+    "path": "ajustes-imagenes/rayos-sobre-nubes.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:LightningAboveCloudsView.JPG",
+    "artist": "350z33",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "description": "View of a lightning system from above.  Picture taken from a Boeing 737 at an altitude over 30,000 ft.  Location isn't exactly known.  I took the photo right in the middle of the flight between Baltimore, MD and Orlando, FL at 12:45AM (delayed flight for 4 hours).",
+    "width": 1200,
+    "height": 800,
+    "bytes": 12800,
+    "file": "imagenes/rayos-sobre-nubes.webp",
+    "changes": "Reducción proporcional y conversión a WebP; sin modificar el contenido."
+  },
+  "puerta-737": {
+    "key": "puerta-737",
+    "path": "ajustes-imagenes/puerta-737.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:UIA_B737_aft_entry_door.jpg",
+    "artist": "Vasyatka1",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "Aft entry door of Ukraine International Airlines Boeing 737-85R (side number UR-PSH).",
+    "width": 800,
+    "height": 1200,
+    "bytes": 50740,
+    "file": "imagenes/puerta-737.webp",
+    "changes": "Reducción proporcional y conversión a WebP; sin modificar el contenido."
+  },
+  "inspeccion-fod": {
+    "key": "inspeccion-fod",
+    "path": "ajustes-imagenes/inspeccion-fod.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Wolf_Pack_Conducts_Mass_FOD_Walk_(9923484).jpg",
+    "artist": "U.S. Air Force photo by Staff Sgt. Joshua DeGuzman",
+    "license": "Public domain",
+    "license_url": "",
+    "description": "U.S. Air Force Airmen assigned to the 8th Fighter Wing collect foreign object debris on a taxiway during a routine FOD walk at Kunsan Air Base, Republic of Korea, Sept. 8, 2026. FOD walks aim to identify and remove any objects that could be ingested into aircraft engines or otherwise cause damage. (U.S. Air Force photo by Staff Sgt. Joshua DeGuzman)",
+    "width": 1200,
+    "height": 611,
+    "bytes": 92696,
+    "file": "imagenes/inspeccion-fod.webp",
+    "changes": "Reducción proporcional y conversión a WebP; sin modificar el contenido."
+  }
+}
